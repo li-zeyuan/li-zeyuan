@@ -1,5 +1,5 @@
 
-<h2 align="center"> 👋 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Jack Lu 👨‍💻 </h2>
+<h2 align="center"> 👋 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Ahern 👨‍💻 </h2>
 
 <p align="center">
   <img src="./images/welcome_typing.svg" alt="Welcome to my Github profile. Nice to meet you." />
@@ -59,21 +59,21 @@
   <picture height="100">
     <source
       height="160"
-      srcset="https://github-readme-stats.vercel.app/api?username=jackluson&show_icons=true&theme=dark&hide=contribs"
+      srcset="https://github-readme-stats.vercel.app/api?username=li-zeyuan&show_icons=true&theme=dark&hide=contribs"
       media="(prefers-color-scheme: dark)"
     />
     <source
       height="160"
-      srcset="https://github-readme-stats.vercel.app/api?username=jackluson&show_icons=true&hide=contribs"
+      srcset="https://github-readme-stats.vercel.app/api?username=li-zeyuan&show_icons=true&hide=contribs"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=jackluson&show_icons=true&hide=contribs" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=li-zeyuan&show_icons=true&hide=contribs" />
   </picture>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackluson&layout=donut&hide=html,css" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=li-zeyuan&layout=donut&hide=html,css" />
 </div>
 <div>
-  <img height="160" width="440" alt="Jack Lu's github summary stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jackluson" />
-  <img height="160" width="212" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jackluson&theme=default&utcOffset=8" />
+  <img height="160" width="440" alt="Jack Lu's github summary stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=li-zeyuan" />
+  <img height="160" width="212" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=li-zeyuan&theme=default&utcOffset=8" />
 </div>
 <img alt="github-snake" src="./images/github-snake.svg" />
 
