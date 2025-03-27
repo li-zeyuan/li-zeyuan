@@ -35,20 +35,15 @@
 
 ## 🛠Skills
 
-- Languages: 
-  ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?style=flat&logo=typescript&logoColor=ffffff)
-  ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+- Languages:
   ![Golang](https://img.shields.io/badge/-Golang-%2329BEB0?style=flat&logo=go&logoColor=ffffff)
-  ![PHP](https://img.shields.io/badge/-php-%23777BB4?style=flat&logo=php&logoColor=ffffff)
   ![SQL](https://img.shields.io/badge/-mysql-%234479A1?style=flat&logo=mysql&logoColor=ffffff)
+  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=markdown&logoColor=white),etc.
+  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+  ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
   ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
   ![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-  ![Sass](https://img.shields.io/badge/sass-CC6699?style=flat&logo=sass&logoColor=white)
-  ![Less](https://img.shields.io/badge/less-1D365D?style=flat&logo=less&logoColor=white)
-  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=markdown&logoColor=white),etc.
-
+  
 - Frontend: React, Vue, Monorepo+Pnpm, Websocket, Threejs, Electron, Mini program, Tailwindcss, Valtio, Zustand, Vite, ESbuild, Webpack, Rollup, Babel, ESlint, etc.
 - Backend: Express, Nextjs, Nuxtjs, Mysql, SQLAlchemy, ORM, Mongodb, etc.
 - Web Crawling: Selenium, Request, Beautifulsoup, Scrapy, Pandas, etc.
@@ -71,9 +66,6 @@
   </picture>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=li-zeyuan&layout=donut&hide=html,css" />
 </div>
-<div>
-  <img height="160" width="440" alt="Jack Lu's github summary stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=li-zeyuan" />
-  <img height="160" width="212" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=li-zeyuan&theme=default&utcOffset=8" />
-</div>
+
 <img alt="github-snake" src="./images/github-snake.svg" />
 
