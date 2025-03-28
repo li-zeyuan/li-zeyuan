@@ -36,7 +36,7 @@
 ## 🛠Skills
 
 - Languages:
-  ![Golang](https://img.shields.io/badge/-Golang-%2329BEB0?style=flat&logo=go&logoColor=ffffff)
+  ![Golang](https://img.shields.io/badge/Golang-%2300ADD8?style=flat&logo=go&logoColor=white&link=https%3A%2F%2Fgo.dev%2F)
   ![SQL](https://img.shields.io/badge/-mysql-%234479A1?style=flat&logo=mysql&logoColor=ffffff)
   ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=markdown&logoColor=white),etc.
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
