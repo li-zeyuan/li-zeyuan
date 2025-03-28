@@ -34,6 +34,9 @@
 </ul>
 
 ## 🛠Skills
+<img alt="Static Badge" src="https://img.shields.io/badge/Golang-%2300ADD8?style=flat&logo=go&logoColor=white&link=https%3A%2F%2Fgo.dev%2F">
+<img alt="Static Badge" src="https://img.shields.io/badge/Golang-%2300ADD8?style=flat&logo=go&logoColor=white&link=https%3A%2F%2Fgo.dev%2F">
+
 
 - Languages:
   ![Golang](https://img.shields.io/badge/Golang-%2300ADD8?style=flat&logo=go&logoColor=white&link=https%3A%2F%2Fgo.dev%2F)
