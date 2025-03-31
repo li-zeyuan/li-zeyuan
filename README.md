@@ -34,9 +34,9 @@
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-%232C2D72?style=flat&logo=lua&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-%23FFD500?style=flat&logo=shell&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=white)
+![Html](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=white)
+![Css](https://img.shields.io/badge/CSS3-%231572B6?logo=css3&logoColor=white)
 
 - Middleware: 
 ![Clickhouse](https://img.shields.io/badge/ClickHouse-%23FFCC01?style=flat&logo=clickhouse&logoColor=white)
