@@ -20,7 +20,7 @@
           <ul>
             <li> <strong> Email:</strong> lzyutf8@163.com
             <div>
-              <img src="https://visitor-badge.laobi.icu/badge?page_id=li-zeyuan.li-zeyuan" alt="Profile Views." />
+              <img src="https://visitor-badge.laobi.icu/badge?page_id=ahern-pro.ahern-pro" alt="Profile Views." />
             </div>
             </li>
           </ul>
@@ -64,17 +64,17 @@
   <picture height="100">
     <source
       height="160"
-      srcset="https://github-readme-stats.vercel.app/api?username=li-zeyuan&show_icons=true&theme=dark&hide=contribs"
+      srcset="https://github-readme-stats.vercel.app/api?username=ahern-pro&show_icons=true&theme=dark&hide=contribs"
       media="(prefers-color-scheme: dark)"
     />
     <source
       height="160"
-      srcset="https://github-readme-stats.vercel.app/api?username=li-zeyuan&show_icons=true&hide=contribs"
+      srcset="https://github-readme-stats.vercel.app/api?username=ahern-pro&show_icons=true&hide=contribs"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=li-zeyuan&show_icons=true&hide=contribs" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=ahern-pro&show_icons=true&hide=contribs" />
   </picture>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=li-zeyuan&layout=donut&hide=html,css" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahern-pro&layout=donut&hide=html,css" />
 </div>
 
 <img alt="github-snake" src="./images/github-snake.svg" />
